@@ -7,3 +7,4 @@
 3. Supervised Method
   + Naive Bayes
   + KNN
+  + Decision Tree

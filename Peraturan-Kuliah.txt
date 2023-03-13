@@ -9,3 +9,4 @@ Peraturan MK Modern Prediction and Machine Learning:
     + Ada UTS presentasi tugas besar
     
   + Perkuliahan oleh dosen Athoillah
+    + kerjasama saat uas tidak akan lulus

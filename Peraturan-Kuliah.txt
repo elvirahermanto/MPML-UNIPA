@@ -8,3 +8,7 @@ Peraturan MK Modern Prediction and Machine Learning:
     + Ada UTS
     
   + Perkuliahan oleh dosen Athoillah
+    + Perkuliahan dilakukan luring di kampus
+    + Mahasiswa yang terlambat datang lebih dari 10 menit tidak diperkenankan masuk kelas
+    + Tidak ada Tugas Besar
+    + Ada UAS
